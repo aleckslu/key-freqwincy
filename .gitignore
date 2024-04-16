@@ -1,0 +1,7 @@
+# Cache Files
+*.pyc
+
+# Log Files
+/*.json
+/*.sqlite*
+
